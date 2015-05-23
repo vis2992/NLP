@@ -1,0 +1,1848 @@
+
+
+*****************SentenceNumber :  0 *******************
+English Sentence : i have therefore voted in favour of the report .
+German Sentence  : ich habe daher für den bericht gestimmt .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  have  ->  habe
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  therefore  ->  daher
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  voted  ->  gestimmt
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  favour  ->  für
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  the  ->  den
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  report  ->  bericht
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  1 *******************
+English Sentence : this is a significant step forward .
+German Sentence  : das ist ein bedeutender schritt nach vorn .
+English to German           :  this  ->  das
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  a  ->  ein
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  significant  ->  bedeutender
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  step  ->  schritt
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  forward  ->  vorn
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  8
+
+
+*****************SentenceNumber :  2 *******************
+English Sentence : i must , nevertheless , make some specific comments .
+German Sentence  : das macht jedoch einige spezifische bemerkungen nicht überflüssig .
+English to German           :  nevertheless  ->  jedoch
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  make  ->  macht
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  some  ->  einige
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  specific  ->  spezifische
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  comments  ->  bemerkungen
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  9
+
+
+*****************SentenceNumber :  3 *******************
+English Sentence : they will need time for that .
+German Sentence  : dazu benötigen sie zeit .
+English to German           :  they  ->  sie
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  will  ->  dazu
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  need  ->  benötigen
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  time  ->  zeit
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  that  ->  dazu
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  5
+
+
+*****************SentenceNumber :  4 *******************
+English Sentence : that is surely right .
+German Sentence  : und das ist ganz gewiss richtig .
+English to German           :  that  ->  das
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  surely  ->  ganz
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  right  ->  richtig
+EngWordPos to GermanWordPos :  4  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  7
+
+
+*****************SentenceNumber :  5 *******************
+English Sentence : these are the three characteristics .
+German Sentence  : das sind die drei wesensmerkmale .
+English to German           :  these  ->  sind
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  are  ->  sind
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  three  ->  drei
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  6 *******************
+English Sentence : we say : ' freedom for iraq !
+German Sentence  : wir sagen : ' freiheit für den irak !
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  say  ->  sagen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  :  ->  :
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  '  ->  '
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  freedom  ->  freiheit
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  for  ->  für
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  iraq  ->  irak
+EngWordPos to GermanWordPos :  7  ->  8
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  8  ->  9
+
+
+*****************SentenceNumber :  7 *******************
+English Sentence : a free i-raq !
+German Sentence  : der irak muss frei sein !
+English to German           :  free  ->  frei
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  4  ->  6
+
+
+*****************SentenceNumber :  8 *******************
+English Sentence : but i wanted to focus on the middle east .
+German Sentence  : aber ich wollte den nahen osten ins blickfeld rücken .
+English to German           :  but  ->  aber
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  wanted  ->  wollte
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  to  ->  den
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  focus  ->  rücken
+EngWordPos to GermanWordPos :  5  ->  9
+English to German           :  on  ->  ins
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  the  ->  den
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  middle  ->  nahen
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  east  ->  osten
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  9 *******************
+English Sentence : but the resolution as a whole remains ambiguous .
+German Sentence  : jedoch bleibt die entschließung insgesamt widersprüchlich .
+English to German           :  but  ->  jedoch
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  resolution  ->  entschließung
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  as  ->  insgesamt
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  whole  ->  insgesamt
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  remains  ->  bleibt
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  7
+
+
+*****************SentenceNumber :  10 *******************
+English Sentence : this is why i abstained on this text .
+German Sentence  : deshalb habe ich mich der stimme enthalten .
+English to German           :  why  ->  deshalb
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  abstained  ->  enthalten
+EngWordPos to GermanWordPos :  5  ->  7
+English to German           :  text  ->  enthalten
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  11 *******************
+English Sentence : iraq is rich in petroleum .
+German Sentence  : irak ist reich an erdöl .
+English to German           :  iraq  ->  irak
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  rich  ->  reich
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  in  ->  an
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  petroleum  ->  erdöl
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  12 *******************
+English Sentence : saddam hussein is a cruel dictator .
+German Sentence  : saddam hussein ist ein grausamer diktator .
+English to German           :  saddam  ->  saddam
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  hussein  ->  hussein
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  a  ->  ein
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  cruel  ->  grausamer
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  dictator  ->  diktator
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  13 *******************
+English Sentence : it could only make a delicate situation worse .
+German Sentence  : dadurch könnte eine heikle situation umso gefährlicher werden .
+English to German           :  it  ->  dadurch
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  could  ->  könnte
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  make  ->  dadurch
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  a  ->  eine
+EngWordPos to GermanWordPos :  5  ->  3
+English to German           :  delicate  ->  heikle
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  situation  ->  situation
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  worse  ->  umso
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  14 *******************
+English Sentence : we want to talk . we want to negotiate .
+German Sentence  : wir wollen reden , wir wollen verhandeln .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :    ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  want  ->  wollen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :    ->  wollen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  to  ->  ,
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  talk  ->  reden
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :    ->  wir
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  want  ->  wollen
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :    ->  wollen
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  to  ->  ,
+EngWordPos to GermanWordPos :  8  ->  4
+English to German           :  negotiate  ->  verhandeln
+EngWordPos to GermanWordPos :  9  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  15 *******************
+English Sentence : this time we hope it will involve parliament .
+German Sentence  : diesmal wird hoffentlich das parlament dabei sein .
+English to German           :  this  ->  das
+EngWordPos to GermanWordPos :  1  ->  4
+English to German           :  time  ->  diesmal
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  hope  ->  hoffentlich
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  it  ->  das
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  will  ->  wird
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  involve  ->  dabei
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  parliament  ->  parlament
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  16 *******************
+English Sentence : this offers a way forward for the future .
+German Sentence  : dies wäre ein gangbarer weg für die zukunft .
+English to German           :  this  ->  dies
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  a  ->  ein
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  way  ->  weg
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  forward  ->  weg
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  for  ->  für
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  future  ->  zukunft
+EngWordPos to GermanWordPos :  8  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  17 *******************
+English Sentence : he prefers legal plundering .
+German Sentence  : er zieht die legale ausplünderung vor .
+English to German           :  he  ->  er
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  prefers  ->  zieht
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  legal  ->  legale
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  plundering  ->  ausplünderung
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  7
+
+
+*****************SentenceNumber :  18 *******************
+English Sentence : and now , bon app?tit !
+German Sentence  : und nun , bon appétit !
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  now  ->  nun
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  19 *******************
+English Sentence : that concludes the explanations of vote .
+German Sentence  : die erklärungen zur abstimmung sind geschlossen .
+English to German           :  concludes  ->  geschlossen
+EngWordPos to GermanWordPos :  2  ->  6
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  explanations  ->  erklärungen
+EngWordPos to GermanWordPos :  4  ->  2
+English to German           :  of  ->  zur
+EngWordPos to GermanWordPos :  5  ->  3
+English to German           :  vote  ->  abstimmung
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  20 *******************
+English Sentence : i declare adjourned the session of the european parliament .
+German Sentence  : ich erkläre die sitzungsperiode des europäischen parlaments für unterbrochen .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  declare  ->  erkläre
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  adjourned  ->  unterbrochen
+EngWordPos to GermanWordPos :  3  ->  9
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  session  ->  sitzungsperiode
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  of  ->  des
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  7  ->  3
+English to German           :  european  ->  europäischen
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  parliament  ->  parlaments
+EngWordPos to GermanWordPos :  9  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  21 *******************
+English Sentence : ( the sitting was closed at <num> p.m. )
+German Sentence  : ( die sitzung wird um <num> uhr geschlossen . )
+English to German           :  (  ->  (
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  sitting  ->  sitzung
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  closed  ->  geschlossen
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  at  ->  um
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  <num>  ->  <num>
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  p.m.  ->  uhr
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  )  ->  )
+EngWordPos to GermanWordPos :  9  ->  10
+
+
+*****************SentenceNumber :  22 *******************
+English Sentence : resumption of the session
+German Sentence  : wiederaufnahme der sitzungsperiode
+English to German           :  resumption  ->  wiederaufnahme
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  of  ->  der
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  session  ->  sitzungsperiode
+EngWordPos to GermanWordPos :  4  ->  3
+
+
+*****************SentenceNumber :  23 *******************
+English Sentence : - ' enough is enough ' .
+German Sentence  : - ' es reicht ' .
+English to German           :  -  ->  -
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  '  ->  '
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :    ->  '
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  enough  ->  reicht
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  is  ->  es
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  enough  ->  reicht
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  '  ->  '
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :    ->  '
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  6
+
+
+*****************SentenceNumber :  24 *******************
+English Sentence : ? basta ya !
+German Sentence  : im jahr <num> gewann ¡ basta ya !
+English to German           :  ?  ->  <num>
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  basta  ->  basta
+EngWordPos to GermanWordPos :  2  ->  6
+English to German           :  ya  ->  ya
+EngWordPos to GermanWordPos :  3  ->  7
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  4  ->  8
+
+
+*****************SentenceNumber :  25 *******************
+English Sentence : are there any comments ?
+German Sentence  : gibt es einwände ?
+English to German           :  are  ->  es
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  there  ->  es
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  any  ->  es
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  comments  ->  einwände
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  ?  ->  ?
+EngWordPos to GermanWordPos :  5  ->  4
+
+
+*****************SentenceNumber :  26 *******************
+English Sentence : subject to that observation , the minutes are approved .
+German Sentence  : vorbehaltlich dieser bemerkung wird das protokoll genehmigt .
+English to German           :  subject  ->  vorbehaltlich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  that  ->  das
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  observation  ->  bemerkung
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  the  ->  das
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  minutes  ->  protokoll
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  approved  ->  genehmigt
+EngWordPos to GermanWordPos :  9  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  27 *******************
+English Sentence : the following change has been proposed :
+German Sentence  : die folgende änderung wurde beantragt :
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  following  ->  folgende
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  change  ->  änderung
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  has  ->  wurde
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  been  ->  wurde
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  proposed  ->  beantragt
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  :  ->  :
+EngWordPos to GermanWordPos :  7  ->  6
+
+
+*****************SentenceNumber :  28 *******************
+English Sentence : wednesday :
+German Sentence  : mittwoch :
+English to German           :  wednesday  ->  mittwoch
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  :  ->  :
+EngWordPos to GermanWordPos :  2  ->  2
+
+
+*****************SentenceNumber :  29 *******************
+English Sentence : ( parliament agreed to the request )
+German Sentence  : ( das parlament nimmt den antrag an . )
+English to German           :  (  ->  (
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  parliament  ->  parlament
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  to  ->  an
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  the  ->  den
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  request  ->  antrag
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  )  ->  )
+EngWordPos to GermanWordPos :  7  ->  9
+
+
+*****************SentenceNumber :  30 *******************
+English Sentence : wonderful !
+German Sentence  : großartig !
+English to German           :  wonderful  ->  großartig
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  2  ->  2
+
+
+*****************SentenceNumber :  31 *******************
+English Sentence : we can do that , mr leinen .
+German Sentence  : das können wir machen , herr leinen .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  can  ->  können
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  do  ->  das
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  that  ->  ,
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  mr  ->  herr
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  leinen  ->  leinen
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  32 *******************
+English Sentence : i hope he will be able to come .
+German Sentence  : ich hoffe , dass er kommen kann .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  hope  ->  hoffe
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  he  ->  er
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  will  ->  kommen
+EngWordPos to GermanWordPos :  4  ->  6
+English to German           :  able  ->  kann
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  to  ->  ,
+EngWordPos to GermanWordPos :  7  ->  3
+English to German           :  come  ->  kommen
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  33 *******************
+English Sentence : human damage cannot be repaired .
+German Sentence  : menschlicher schaden ist irreparabel .
+English to German           :  human  ->  menschlicher
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  damage  ->  schaden
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  5
+
+
+*****************SentenceNumber :  34 *******************
+English Sentence : it is impossible to evaluate human suffering .
+German Sentence  : es ist unmöglich , menschliches leid zu beurteilen .
+English to German           :  it  ->  es
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  impossible  ->  unmöglich
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  to  ->  ,
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  evaluate  ->  beurteilen
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  human  ->  menschliches
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  suffering  ->  leid
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  9
+
+
+*****************SentenceNumber :  35 *******************
+English Sentence : i do not therefore accept this kind of argument .
+German Sentence  : insofern kann ich eine solche argumentation nicht akzeptieren .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  do  ->  nicht
+EngWordPos to GermanWordPos :  2  ->  7
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  3  ->  7
+English to German           :  therefore  ->  insofern
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  accept  ->  akzeptieren
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  this  ->  solche
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  kind  ->  solche
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  argument  ->  argumentation
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  9
+
+
+*****************SentenceNumber :  36 *******************
+English Sentence : this crime can be avoided .
+German Sentence  : dieses verbrechen kann verhindert werden .
+English to German           :  this  ->  dieses
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  crime  ->  verbrechen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  can  ->  kann
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  be  ->  werden
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  avoided  ->  verhindert
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  37 *******************
+English Sentence : you said that those comments were not correct .
+German Sentence  : sie sagten , dass diese äußerungen nicht korrekt seien .
+English to German           :  you  ->  sie
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  said  ->  sagten
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  that  ->  ,
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  those  ->  diese
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  comments  ->  äußerungen
+EngWordPos to GermanWordPos :  5  ->  6
+English to German           :  were  ->  seien
+EngWordPos to GermanWordPos :  6  ->  9
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  correct  ->  korrekt
+EngWordPos to GermanWordPos :  8  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  10
+
+
+*****************SentenceNumber :  38 *******************
+English Sentence : no , i will not do that .
+German Sentence  : nein , das werde ich nicht tun .
+English to German           :  no  ->  nicht
+EngWordPos to GermanWordPos :  1  ->  6
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  will  ->  werde
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  5  ->  6
+English to German           :  do  ->  nicht
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  that  ->  ,
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  39 *******************
+English Sentence : what they put in as a quotation was correct .
+German Sentence  : was als zitat wiedergegeben wurde , ist korrekt .
+English to German           :  what  ->  was
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  as  ->  als
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  quotation  ->  zitat
+EngWordPos to GermanWordPos :  7  ->  3
+English to German           :  was  ->  wurde
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  correct  ->  korrekt
+EngWordPos to GermanWordPos :  9  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  9
+
+
+*****************SentenceNumber :  40 *******************
+English Sentence : no , it is not a point for plenary .
+German Sentence  : nein , dies ist kein punkt für das plenum .
+English to German           :  no  ->  kein
+EngWordPos to GermanWordPos :  1  ->  5
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  it  ->  das
+EngWordPos to GermanWordPos :  3  ->  8
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  not  ->  kein
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  a  ->  kein
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  point  ->  punkt
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  for  ->  für
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  plenary  ->  plenum
+EngWordPos to GermanWordPos :  9  ->  9
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  41 *******************
+English Sentence : you may take it up with me privately .
+German Sentence  : sie können ihn mit mir privat besprechen .
+English to German           :  you  ->  sie
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  may  ->  können
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  it  ->  sie
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  with  ->  mit
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  me  ->  mir
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  privately  ->  privat
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  42 *******************
+English Sentence : ' )
+German Sentence  : ' )
+English to German           :  '  ->  '
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  )  ->  )
+EngWordPos to GermanWordPos :  2  ->  2
+
+
+*****************SentenceNumber :  43 *******************
+English Sentence : that concludes the item .
+German Sentence  : damit ist dieser tagesordnungspunkt abgeschlossen .
+English to German           :  that  ->  dieser
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  concludes  ->  abgeschlossen
+EngWordPos to GermanWordPos :  2  ->  5
+English to German           :  item  ->  tagesordnungspunkt
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  6
+
+
+*****************SentenceNumber :  44 *******************
+English Sentence : thank you for coming .
+German Sentence  : vielen dank für ihr kommen .
+English to German           :  thank  ->  dank
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  you  ->  ihr
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  for  ->  für
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  coming  ->  kommen
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  6
+
+
+*****************SentenceNumber :  45 *******************
+English Sentence : we need both .
+German Sentence  : wir benötigen beides .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  need  ->  benötigen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  both  ->  beides
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  4  ->  4
+
+
+*****************SentenceNumber :  46 *******************
+English Sentence : this synthesis is difficult and painful .
+German Sentence  : dies ist schwierig und mühsam zugleich .
+English to German           :  this  ->  dies
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  difficult  ->  schwierig
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  47 *******************
+English Sentence : we are drawing closer together .
+German Sentence  : wir rücken näher zusammen .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  closer  ->  näher
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  together  ->  zusammen
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  5
+
+
+*****************SentenceNumber :  48 *******************
+English Sentence : we are becoming ever more dependent on each other .
+German Sentence  : wir werden voneinander immer abhängiger .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  are  ->  werden
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  becoming  ->  immer
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  ever  ->  immer
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  more  ->  immer
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  dependent  ->  abhängiger
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  each  ->  voneinander
+EngWordPos to GermanWordPos :  8  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  6
+
+
+*****************SentenceNumber :  49 *******************
+English Sentence : when others are stricken , we are affected .
+German Sentence  : wir sind getroffen und betroffen .
+English to German           :  are  ->  sind
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  are  ->  sind
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  affected  ->  betroffen
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  6
+
+
+*****************SentenceNumber :  50 *******************
+English Sentence : we need europe to be stronger and more determined .
+German Sentence  : mehr europäische geschlossenheit und stärke benötigen wir !
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  7
+English to German           :  need  ->  benötigen
+EngWordPos to GermanWordPos :  2  ->  6
+English to German           :  europe  ->  europäische
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  stronger  ->  mehr
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  more  ->  mehr
+EngWordPos to GermanWordPos :  8  ->  1
+English to German           :  .  ->  !
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  51 *******************
+English Sentence : we have to do our homework for ourselves .
+German Sentence  : wir müssen auch die hausaufgaben bei uns machen .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  have  ->  müssen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  to  ->  bei
+EngWordPos to GermanWordPos :  3  ->  6
+English to German           :  do  ->  machen
+EngWordPos to GermanWordPos :  4  ->  8
+English to German           :  our  ->  wir
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  homework  ->  hausaufgaben
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  for  ->  bei
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  ourselves  ->  uns
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  52 *******************
+English Sentence : europe has a vital interest in this issue .
+German Sentence  : europa hat an dieser frage ein lebenswichtiges interesse .
+English to German           :  europe  ->  europa
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  has  ->  hat
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  a  ->  ein
+EngWordPos to GermanWordPos :  3  ->  6
+English to German           :  vital  ->  lebenswichtiges
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  interest  ->  interesse
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  in  ->  an
+EngWordPos to GermanWordPos :  6  ->  3
+English to German           :  this  ->  dieser
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  issue  ->  frage
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  53 *******************
+English Sentence : human rights must always be nurtured and promoted .
+German Sentence  : menschenrechte müssen jederzeit gewahrt und gefördert werden .
+English to German           :  human  ->  menschenrechte
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  rights  ->  menschenrechte
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  must  ->  müssen
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  always  ->  jederzeit
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  be  ->  werden
+EngWordPos to GermanWordPos :  5  ->  7
+English to German           :  nurtured  ->  gefördert
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  promoted  ->  gefördert
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  54 *******************
+English Sentence : europe can make a difference .
+German Sentence  : europa kann also auch veränderungen in der politik herbeiführen .
+English to German           :  europe  ->  europa
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  can  ->  kann
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  difference  ->  veränderungen
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  10
+
+
+*****************SentenceNumber :  55 *******************
+English Sentence : there is no need to shy away from this .
+German Sentence  : davor braucht man sich meines erachtens nicht zu fürchten .
+English to German           :  there  ->  man
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  is  ->  sich
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  no  ->  nicht
+EngWordPos to GermanWordPos :  3  ->  7
+English to German           :  need  ->  braucht
+EngWordPos to GermanWordPos :  4  ->  2
+English to German           :  to  ->  zu
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  shy  ->  davor
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  away  ->  sich
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  from  ->  davor
+EngWordPos to GermanWordPos :  8  ->  1
+English to German           :  this  ->  sich
+EngWordPos to GermanWordPos :  9  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  56 *******************
+English Sentence : open up your markets ? trade means work .
+German Sentence  : öffnet die märkte , denn handel heißt arbeit .
+English to German           :  open  ->  öffnet
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  up  ->  ,
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  markets  ->  märkte
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  trade  ->  handel
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  means  ->  heißt
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  work  ->  arbeit
+EngWordPos to GermanWordPos :  8  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  57 *******************
+English Sentence : we must respond .
+German Sentence  : darauf müssen wir , glaube ich , reagieren .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  must  ->  müssen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  respond  ->  reagieren
+EngWordPos to GermanWordPos :  3  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  4  ->  9
+
+
+*****************SentenceNumber :  58 *******************
+English Sentence : allow me to address a couple of issues .
+German Sentence  : lassen sie mich einige dieser probleme thematisieren .
+English to German           :  allow  ->  lassen
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  me  ->  mich
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  to  ->  lassen
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  address  ->  thematisieren
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  couple  ->  einige
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  of  ->  dieser
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  issues  ->  probleme
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  59 *******************
+English Sentence : trade is important , of course .
+German Sentence  : der handel ist natürlich wichtig .
+English to German           :  trade  ->  handel
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  important  ->  wichtig
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  of  ->  der
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  course  ->  natürlich
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  6
+
+
+*****************SentenceNumber :  60 *******************
+English Sentence : i shall cite three examples .
+German Sentence  : ich möchte drei beispiele nennen .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  shall  ->  möchte
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  cite  ->  nennen
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  three  ->  drei
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  examples  ->  beispiele
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  61 *******************
+English Sentence : we are part of the imf .
+German Sentence  : der iwf - das sind nämlich auch wir .
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  1  ->  8
+English to German           :  are  ->  sind
+EngWordPos to GermanWordPos :  2  ->  5
+English to German           :  of  ->  der
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  imf  ->  iwf
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  9
+
+
+*****************SentenceNumber :  62 *******************
+English Sentence : the european union is the best example of this .
+German Sentence  : die europäische union ist hierfür das beste beispiel .
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  european  ->  europäische
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  union  ->  union
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  best  ->  beste
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  example  ->  beispiel
+EngWordPos to GermanWordPos :  7  ->  8
+English to German           :  of  ->  die
+EngWordPos to GermanWordPos :  8  ->  1
+English to German           :  this  ->  das
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  9
+
+
+*****************SentenceNumber :  63 *******************
+English Sentence : there is certainly no way back .
+German Sentence  : es gibt hier keinen weg zurück .
+English to German           :  there  ->  es
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  es
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  no  ->  keinen
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  way  ->  weg
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  back  ->  zurück
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  64 *******************
+English Sentence : the sea represents life itself .
+German Sentence  : meer bedeutet leben .
+English to German           :  sea  ->  meer
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  represents  ->  bedeutet
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  life  ->  leben
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  4
+
+
+*****************SentenceNumber :  65 *******************
+English Sentence : the theory is now belied by the facts .
+German Sentence  : diese these wurde inzwischen durch fakten widerlegt .
+English to German           :  theory  ->  these
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  now  ->  inzwischen
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  by  ->  durch
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  facts  ->  fakten
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  66 *******************
+English Sentence : i believe that the response could be affirmative .
+German Sentence  : meines erachtens könnte diese frage mit ja beantwortet werden .
+English to German           :  i  ->  meines
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  believe  ->  erachtens
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  that  ->  diese
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  response  ->  beantwortet
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  could  ->  könnte
+EngWordPos to GermanWordPos :  6  ->  3
+English to German           :  be  ->  werden
+EngWordPos to GermanWordPos :  7  ->  9
+English to German           :  affirmative  ->  ja
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  10
+
+
+*****************SentenceNumber :  67 *******************
+English Sentence : i shall not dwell on agricultural issues .
+German Sentence  : auf agrarfragen werde ich jetzt nicht eingehen .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  4
+English to German           :  shall  ->  werde
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  3  ->  6
+English to German           :  dwell  ->  eingehen
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  on  ->  auf
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  agricultural  ->  agrarfragen
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  issues  ->  eingehen
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  68 *******************
+English Sentence : commissioner lamy has the floor once again .
+German Sentence  : herr kommissar lamy hat noch einmal das wort .
+English to German           :  commissioner  ->  kommissar
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  lamy  ->  lamy
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  has  ->  hat
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  the  ->  das
+EngWordPos to GermanWordPos :  4  ->  7
+English to German           :  floor  ->  wort
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  once  ->  einmal
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  again  ->  einmal
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  9
+
+
+*****************SentenceNumber :  69 *******************
+English Sentence : the union 's position remains the same .
+German Sentence  : der standpunkt der union hat sich nicht geändert .
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :    ->  der
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  union  ->  union
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  's  ->  der
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :    ->  der
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  position  ->  standpunkt
+EngWordPos to GermanWordPos :  4  ->  2
+English to German           :  remains  ->  geändert
+EngWordPos to GermanWordPos :  5  ->  8
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :    ->  der
+EngWordPos to GermanWordPos :  6  ->  1
+English to German           :  same  ->  geändert
+EngWordPos to GermanWordPos :  7  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  9
+
+
+*****************SentenceNumber :  70 *******************
+English Sentence : there must be no misunderstanding on this point .
+German Sentence  : in diesem punkt kann es keine missverständnisse geben .
+English to German           :  there  ->  es
+EngWordPos to GermanWordPos :  1  ->  5
+English to German           :  be  ->  geben
+EngWordPos to GermanWordPos :  3  ->  8
+English to German           :  no  ->  keine
+EngWordPos to GermanWordPos :  4  ->  6
+English to German           :  misunderstanding  ->  missverständnisse
+EngWordPos to GermanWordPos :  5  ->  7
+English to German           :  on  ->  diesem
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  this  ->  diesem
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  point  ->  punkt
+EngWordPos to GermanWordPos :  8  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  71 *******************
+English Sentence : discussions have begun again .
+German Sentence  : die gespräche wurden wieder aufgenommen .
+English to German           :  discussions  ->  gespräche
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  have  ->  wurden
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  begun  ->  aufgenommen
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  again  ->  wieder
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  6
+
+
+*****************SentenceNumber :  72 *******************
+English Sentence : we must make progress .
+German Sentence  : es darf auf keinen fall zu verzögerungen kommen .
+English to German           :  must  ->  darf
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  make  ->  zu
+EngWordPos to GermanWordPos :  3  ->  6
+English to German           :  progress  ->  kommen
+EngWordPos to GermanWordPos :  4  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  9
+
+
+*****************SentenceNumber :  73 *******************
+English Sentence : that is why we must seek innovative solutions .
+German Sentence  : wir müssen daher innovative lösungen finden .
+English to German           :  why  ->  daher
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  must  ->  müssen
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  seek  ->  finden
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  innovative  ->  innovative
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  solutions  ->  lösungen
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  7
+
+
+*****************SentenceNumber :  74 *******************
+English Sentence : this is an incredibly important issue .
+German Sentence  : dies ist eine ausgesprochen wichtige frage .
+English to German           :  this  ->  dies
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  an  ->  eine
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  incredibly  ->  ausgesprochen
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  important  ->  wichtige
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  issue  ->  frage
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  75 *******************
+English Sentence : neither is an adequate solution .
+German Sentence  : keines der beiden stellt eine angemessene lösung dar .
+English to German           :  neither  ->  beiden
+EngWordPos to GermanWordPos :  1  ->  3
+English to German           :  is  ->  stellt
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  an  ->  eine
+EngWordPos to GermanWordPos :  3  ->  5
+English to German           :  adequate  ->  angemessene
+EngWordPos to GermanWordPos :  4  ->  6
+English to German           :  solution  ->  lösung
+EngWordPos to GermanWordPos :  5  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  9
+
+
+*****************SentenceNumber :  76 *******************
+English Sentence : this is inadequate !
+German Sentence  : das reicht nicht aus !
+English to German           :  this  ->  das
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  das
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  inadequate  ->  aus
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  4  ->  5
+
+
+*****************SentenceNumber :  77 *******************
+English Sentence : hence the regulation by the council of ministers .
+German Sentence  : daher die verordnung durch den ministerrat .
+English to German           :  hence  ->  daher
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  regulation  ->  verordnung
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  by  ->  durch
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  council  ->  ministerrat
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  of  ->  die
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  ministers  ->  ministerrat
+EngWordPos to GermanWordPos :  8  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  7
+
+
+*****************SentenceNumber :  78 *******************
+English Sentence : let us welcome your proposal of <num> january .
+German Sentence  : ihren vorschlag vom 7. januar sollten wir begrüßen .
+English to German           :  let  ->  wir
+EngWordPos to GermanWordPos :  1  ->  7
+English to German           :  us  ->  wir
+EngWordPos to GermanWordPos :  2  ->  7
+English to German           :  welcome  ->  begrüßen
+EngWordPos to GermanWordPos :  3  ->  8
+English to German           :  your  ->  ihren
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  proposal  ->  vorschlag
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  of  ->  vom
+EngWordPos to GermanWordPos :  6  ->  3
+English to German           :  <num>  ->  7.
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  january  ->  januar
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  79 *******************
+English Sentence : i wish you very good luck , commissioner .
+German Sentence  : ich wünsche ihnen viel glück , herr kommissar .
+English to German           :  i  ->  ich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  wish  ->  wünsche
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  you  ->  ihnen
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  very  ->  viel
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  good  ->  glück
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  luck  ->  glück
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  commissioner  ->  kommissar
+EngWordPos to GermanWordPos :  8  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  80 *******************
+English Sentence : unilateralism with a reason is just about comprehensible .
+German Sentence  : unilateralismus mit einer begründung ist gerade noch verständlich .
+English to German           :  unilateralism  ->  unilateralismus
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  with  ->  mit
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  a  ->  einer
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  reason  ->  begründung
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  just  ->  gerade
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  about  ->  gerade
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  comprehensible  ->  verständlich
+EngWordPos to GermanWordPos :  8  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  9
+
+
+*****************SentenceNumber :  81 *******************
+English Sentence : unilateralism without any logic whatsoever is unforgivable .
+German Sentence  : unilateralismus ohne logik ist aber unverzeihlich .
+English to German           :  unilateralism  ->  unilateralismus
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  without  ->  ohne
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  any  ->  ohne
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  logic  ->  logik
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  6  ->  4
+English to German           :  unforgivable  ->  unverzeihlich
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  7
+
+
+*****************SentenceNumber :  82 *******************
+English Sentence : it has still not been solved .
+German Sentence  : dies ist noch immer nicht geschehen .
+English to German           :  it  ->  dies
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  has  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  still  ->  noch
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  been  ->  geschehen
+EngWordPos to GermanWordPos :  5  ->  6
+English to German           :  solved  ->  geschehen
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  7  ->  7
+
+
+*****************SentenceNumber :  83 *******************
+English Sentence : ultimately the political breakthrough came .
+German Sentence  : schließlich kam der politische durchbruch .
+English to German           :  ultimately  ->  schließlich
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  political  ->  politische
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  breakthrough  ->  durchbruch
+EngWordPos to GermanWordPos :  4  ->  5
+English to German           :  came  ->  kam
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  84 *******************
+English Sentence : that applies to all developing countries and all medicines .
+German Sentence  : das gilt für alle entwicklungsländer und alle medikamente .
+English to German           :  that  ->  das
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  applies  ->  gilt
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  to  ->  für
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  all  ->  alle
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :    ->  alle
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  developing  ->  entwicklungsländer
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  countries  ->  entwicklungsländer
+EngWordPos to GermanWordPos :  6  ->  5
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  all  ->  alle
+EngWordPos to GermanWordPos :  8  ->  4
+English to German           :    ->  alle
+EngWordPos to GermanWordPos :  8  ->  4
+English to German           :  medicines  ->  medikamente
+EngWordPos to GermanWordPos :  9  ->  8
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  9
+
+
+*****************SentenceNumber :  85 *******************
+English Sentence : so : this far and no further .
+German Sentence  : also : bis hierher und nicht weiter .
+English to German           :  so  ->  also
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  :  ->  :
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  far  ->  bis
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  and  ->  und
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  no  ->  nicht
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  further  ->  weiter
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  86 *******************
+English Sentence : necessity knows no law .
+German Sentence  : not bricht das gesetz .
+English to German           :  necessity  ->  not
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  law  ->  gesetz
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  5  ->  5
+
+
+*****************SentenceNumber :  87 *******************
+English Sentence : the trips agreements must not be a limiting factor .
+German Sentence  : die trips-abkommen dürfen keinen beschränkenden faktor darstellen .
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  trips  ->  trips-abkommen
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  must  ->  dürfen
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  not  ->  keinen
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  be  ->  darstellen
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  factor  ->  faktor
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  88 *******************
+English Sentence : then there will be no development round !
+German Sentence  : dann gibt es keine entwicklungsrunde !
+English to German           :  then  ->  dann
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  there  ->  es
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  will  ->  dann
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  be  ->  dann
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  no  ->  keine
+EngWordPos to GermanWordPos :  5  ->  4
+English to German           :  round  ->  entwicklungsrunde
+EngWordPos to GermanWordPos :  7  ->  5
+English to German           :  !  ->  !
+EngWordPos to GermanWordPos :  8  ->  6
+
+
+*****************SentenceNumber :  89 *******************
+English Sentence : that is why we are taking this clear stance .
+German Sentence  : daher nehmen wir diese klare haltung ein .
+English to German           :  that  ->  diese
+EngWordPos to GermanWordPos :  1  ->  4
+English to German           :  why  ->  daher
+EngWordPos to GermanWordPos :  3  ->  1
+English to German           :  we  ->  wir
+EngWordPos to GermanWordPos :  4  ->  3
+English to German           :  are  ->  nehmen
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  taking  ->  nehmen
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  this  ->  diese
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  clear  ->  klare
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  stance  ->  haltung
+EngWordPos to GermanWordPos :  9  ->  6
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  8
+
+
+*****************SentenceNumber :  90 *******************
+English Sentence : then new medicines will have to be developed .
+German Sentence  : dann müssen neue medikamente entwickelt werden .
+English to German           :  then  ->  dann
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  new  ->  neue
+EngWordPos to GermanWordPos :  2  ->  3
+English to German           :  medicines  ->  medikamente
+EngWordPos to GermanWordPos :  3  ->  4
+English to German           :  will  ->  werden
+EngWordPos to GermanWordPos :  4  ->  6
+English to German           :  have  ->  müssen
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  to  ->  müssen
+EngWordPos to GermanWordPos :  6  ->  2
+English to German           :  be  ->  werden
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  developed  ->  entwickelt
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  7
+
+
+*****************SentenceNumber :  91 *******************
+English Sentence : that is my first point .
+German Sentence  : das ist mein erster punkt .
+English to German           :  that  ->  das
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  my  ->  mein
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  first  ->  erster
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  point  ->  punkt
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  6  ->  6
+
+
+*****************SentenceNumber :  92 *******************
+English Sentence : this will undercut the profits of legitimate pharmaceutical industries .
+German Sentence  : die gewinne der rechtmäßigen pharmaunternehmen werden dadurch natürlich beschnitten .
+English to German           :  this  ->  dadurch
+EngWordPos to GermanWordPos :  1  ->  7
+English to German           :  will  ->  werden
+EngWordPos to GermanWordPos :  2  ->  6
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  4  ->  1
+English to German           :  profits  ->  gewinne
+EngWordPos to GermanWordPos :  5  ->  2
+English to German           :  of  ->  der
+EngWordPos to GermanWordPos :  6  ->  3
+English to German           :  legitimate  ->  rechtmäßigen
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  pharmaceutical  ->  pharmaunternehmen
+EngWordPos to GermanWordPos :  8  ->  5
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  93 *******************
+English Sentence : is that something you see as likely , commissioner ?
+German Sentence  : ist das in ihren augen wahrscheinlich , herr kommissar ?
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  that  ->  ,
+EngWordPos to GermanWordPos :  2  ->  7
+English to German           :  something  ->  das
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  you  ->  ihren
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  see  ->  augen
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  likely  ->  wahrscheinlich
+EngWordPos to GermanWordPos :  7  ->  6
+English to German           :  ,  ->  ,
+EngWordPos to GermanWordPos :  8  ->  7
+English to German           :  commissioner  ->  kommissar
+EngWordPos to GermanWordPos :  9  ->  9
+English to German           :  ?  ->  ?
+EngWordPos to GermanWordPos :  10  ->  10
+
+
+*****************SentenceNumber :  94 *******************
+English Sentence : that was not the intention at doha .
+German Sentence  : das war nicht die absicht von doha .
+English to German           :  that  ->  das
+EngWordPos to GermanWordPos :  1  ->  1
+English to German           :  was  ->  war
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  the  ->  die
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  intention  ->  absicht
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  doha  ->  doha
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  95 *******************
+English Sentence : what do we do then ?
+German Sentence  : aber was dann ?
+English to German           :  what  ->  was
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  do  ->  was
+EngWordPos to GermanWordPos :  2  ->  2
+English to German           :  do  ->  was
+EngWordPos to GermanWordPos :  4  ->  2
+English to German           :  then  ->  dann
+EngWordPos to GermanWordPos :  5  ->  3
+English to German           :  ?  ->  ?
+EngWordPos to GermanWordPos :  6  ->  4
+
+
+*****************SentenceNumber :  96 *******************
+English Sentence : this provisional arrangement is simply not enough however .
+German Sentence  : doch diese übergangsregelung reicht uns einfach nicht .
+English to German           :  this  ->  diese
+EngWordPos to GermanWordPos :  1  ->  2
+English to German           :  arrangement  ->  übergangsregelung
+EngWordPos to GermanWordPos :  3  ->  3
+English to German           :  simply  ->  einfach
+EngWordPos to GermanWordPos :  5  ->  6
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  6  ->  7
+English to German           :  enough  ->  reicht
+EngWordPos to GermanWordPos :  7  ->  4
+English to German           :  however  ->  doch
+EngWordPos to GermanWordPos :  8  ->  1
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  9  ->  8
+
+
+*****************SentenceNumber :  97 *******************
+English Sentence : a long-term solution must therefore be found .
+German Sentence  : wir suchen daher nach einer dauerhaften lösung .
+English to German           :  a  ->  einer
+EngWordPos to GermanWordPos :  1  ->  5
+English to German           :  long-term  ->  dauerhaften
+EngWordPos to GermanWordPos :  2  ->  6
+English to German           :  solution  ->  lösung
+EngWordPos to GermanWordPos :  3  ->  7
+English to German           :  therefore  ->  daher
+EngWordPos to GermanWordPos :  5  ->  3
+English to German           :  found  ->  suchen
+EngWordPos to GermanWordPos :  7  ->  2
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  98 *******************
+English Sentence : something else enters into this , however .
+German Sentence  : dabei spielt jedoch noch etwas eine rolle .
+English to German           :  something  ->  etwas
+EngWordPos to GermanWordPos :  1  ->  5
+English to German           :  else  ->  noch
+EngWordPos to GermanWordPos :  2  ->  4
+English to German           :  this  ->  dabei
+EngWordPos to GermanWordPos :  5  ->  1
+English to German           :  however  ->  jedoch
+EngWordPos to GermanWordPos :  7  ->  3
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
+
+
+*****************SentenceNumber :  99 *******************
+English Sentence : and this is not always the case .
+German Sentence  : dies ist jedoch nicht immer der fall .
+English to German           :  this  ->  dies
+EngWordPos to GermanWordPos :  2  ->  1
+English to German           :  is  ->  ist
+EngWordPos to GermanWordPos :  3  ->  2
+English to German           :  not  ->  nicht
+EngWordPos to GermanWordPos :  4  ->  4
+English to German           :  always  ->  immer
+EngWordPos to GermanWordPos :  5  ->  5
+English to German           :  the  ->  der
+EngWordPos to GermanWordPos :  6  ->  6
+English to German           :  case  ->  fall
+EngWordPos to GermanWordPos :  7  ->  7
+English to German           :  .  ->  .
+EngWordPos to GermanWordPos :  8  ->  8
